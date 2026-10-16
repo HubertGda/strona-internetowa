@@ -6,6 +6,9 @@ Otwórz `index.html` w przeglądarce. Edytuj treści w `index.html`, wygląd w `
 
 ## GitHub Pages
 
-Workflow publikuje wyłącznie pliki strony. W Settings → Pages wybierz źródło GitHub Actions i uruchom workflow. Dostępność Pages dla prywatnych repozytoriów zależy od planu GitHuba. Strona nie jest jeszcze opublikowana.
+Workflow publikuje wyłącznie pliki strony. W Settings → Pages wybierz źródło GitHub Actions i uruchom workflow. Dostępność Pages dla prywatnych repozytoriów zależy od planu GitHuba. Adres strony: https://hubertgda.github.io/strona-internetowa/
 
 Przykładowe treści nie reprezentują rzeczywistej firmy. Uzupełnij je przed publikacją. Dane logowania nie należą do projektu.
+
+
+Repozytorium publiczne. Publikacja przez GitHub Pages.
